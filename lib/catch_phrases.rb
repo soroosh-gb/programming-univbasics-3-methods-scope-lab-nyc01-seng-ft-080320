@@ -18,8 +18,7 @@ def all_phrases
   puts phrase
   puts status
   puts link_phrase
-end
-puts all_phrases
+  puts all_phrases
 end
 
 
