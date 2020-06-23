@@ -19,5 +19,5 @@ def all_phrases
   puts status
   puts link_phrase
 end
-end all_phrases
+
   
