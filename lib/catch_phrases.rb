@@ -15,10 +15,10 @@ def link
 end
 
 def all_phrases
-  puts phrase
-  puts status
-  puts link_phrase
-  puts all_phrases
+  puts mario
+  puts toadstool
+  puts link
+
 end
 
 
