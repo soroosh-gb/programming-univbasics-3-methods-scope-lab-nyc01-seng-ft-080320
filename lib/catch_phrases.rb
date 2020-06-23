@@ -20,6 +20,6 @@ def all_phrases
   puts link_phrase
 end
 
-end 
+
 
   
